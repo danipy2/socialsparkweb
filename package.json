@@ -2,6 +2,7 @@
   "name": "web",
   "version": "0.1.0",
   "private": true,
+  "proxy":"https://fuzzy-lamp-56j6j956gr6h449p-8000.app.github.dev/",
   "scripts": {
     "dev": "next dev ",
     "build": "next build ",
